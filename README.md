@@ -22,16 +22,16 @@
 
 **Clone the Repository**
 
-    ```bash
-    git clone https://github.com/ToyMath/TronHDL.git
-    cd TronHDL
-    ```
+```bash
+git clone https://github.com/ToyMath/TronHDL.git
+cd TronHDL
+```
 
 **Install TronHDL via pip**
 
-    ```bash
-    pip install .
-    ```
+```bash
+pip install .
+```
 
 **Install Icarus Verilog**
 
